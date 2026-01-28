@@ -1,0 +1,7 @@
+{
+  "name": "Sangha Statistics System",
+  "description": "A comprehensive statistical management system for monks and novices, featuring data entry, search, and detailed dashboards with percentages and ethnic breakdowns.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
